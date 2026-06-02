@@ -200,7 +200,6 @@
 
 | Platform | Focus Areas | Progress |
 |:---:|:---:|:---:|
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com) | Trees · Graphs · Dynamic Programming · Sorting | **150+ Problems Solved** |
 | [![GFG](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org) | Data Structures · Algorithms · System Design | **Active** |
 
 </div>
@@ -217,7 +216,6 @@
 🌍  Team Leader        →  Google Solution Challenge 2026     (Ongoing)
 🏛️  Member             →  E-Cell, UIET Kurukshetra           (Aug 2025 – Present)
 📋  Coordinator        →  AIU Anveshan 2025                  (National Level)
-🧠  150+ Problems      →  LeetCode & GeeksforGeeks
 🎖️  Recognized         →  Leadership & Coordination in Entrepreneurship Communities
 ```
 
