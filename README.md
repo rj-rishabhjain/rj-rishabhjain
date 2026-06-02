@@ -43,8 +43,6 @@
 
 🚀 &nbsp;**5+ production-grade projects** built & deployed
 
-🧠 &nbsp;**150+ DSA problems** solved on LeetCode & GFG
-
 ✨ &nbsp;**Superpower:** Turning complex problems into clean, working software
 
 > *"Ship working software. Make it smart. Make it count."*
