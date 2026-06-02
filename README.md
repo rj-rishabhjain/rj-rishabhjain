@@ -13,11 +13,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a3d2e,100:0d2b1a&height=260&section=header&text=Rishabh%20Jain&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Building%20AI%20systems%20that%20matter.&descAlignY=62&descSize=20&descColor=2DD4A0&animation=fadeIn" width="100%"/>
 
 
-
 <br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rj-rishabhjain)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rjrishabh1509@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rj-rishabhjain)
 
 </div>
 
+---
 
 <!-- ═══════════════════ WHO AM I ═══════════════════ -->
 
