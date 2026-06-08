@@ -261,7 +261,7 @@ My backend and full-stack foundation is solid — now I'm going deeper into AI/M
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rj-rishabhjain) | **linkedin.com/in/rj-rishabhjain** |
 | [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rjrishabh1509@gmail.com) | **rjrishabh1509@gmail.com** |
 | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918130728472) | **[+91 81307 28472](https://wa.me/918130728472)** |
-| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rj-rishabhjain) | **github.com/rj-rishabhjain** |
+| [![Google Developers](https://img.shields.io/badge/Google%20Developers-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://me.developers.google.com/u/rj_rishabh_jain) | **Google Developer Profile** |
 
 <br/>
 
