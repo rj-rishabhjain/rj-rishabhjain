@@ -17,9 +17,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rj-rishabhjain)
 &nbsp;
+[![Google Developers](https://img.shields.io/badge/Google%20Developers-6F4E37?style=for-the-badge&logo=google&logoColor=white)](https://me.developers.google.com/u/rj_rishabh_jain)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rjrishabh1509@gmail.com)
 &nbsp;
-[![Google Developers](https://img.shields.io/badge/Google%20Developers-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://me.developers.google.com/u/rj_rishabh_jain)
 
 </div>
 
