@@ -19,7 +19,7 @@
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rjrishabh1509@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rj-rishabhjain)
+[![Google Developers](https://img.shields.io/badge/Google%20Developers-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://me.developers.google.com/u/rj_rishabh_jain)
 
 </div>
 
